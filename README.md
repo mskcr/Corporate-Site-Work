@@ -1,4 +1,4 @@
-<h3>THE PROJECT WILL CONTINUE.</h3>
+<h1>THE PROJECT WILL CONTINUE.</h1>
 
 <h2>Corporate Site Work</h2>
 
